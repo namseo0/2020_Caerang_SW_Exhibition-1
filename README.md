@@ -1,6 +1,6 @@
 # 2020 Caerang SW Exhibition &#60;Escape Forest&#62;
 
-<img src="./image/start.PNG" width=500px>
+<img src="./image/poster.PNG" width=500px>
 
 안녕하세요! 저희는 서주현, 남서영 입니다 :)
 
@@ -38,4 +38,4 @@ UNITY엔진을 사용하여 "ESCAPE FOREST" 게임을 제작하였습니다.
     <li>시연영상
 </ol>
 
-[![Watch the video](https://img.youtube.com/vi/IKkjOKICiMw/0.jpg)](https://youtu.be/IKkjOKICiMw)
+[![Watch the video](./image/videoimage.PNG)](https://youtu.be/IKkjOKICiMw)
