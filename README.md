@@ -1,6 +1,6 @@
 # 2020 Caerang SW Exhibition &#60;Escape Forest&#62;
 
-<img src="./image/poster.PNG" width=500px>
+<img src="./image/poster.png" width=800px style="text-align:center;">
 
 안녕하세요! 저희는 서주현, 남서영 입니다 :)
 
