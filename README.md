@@ -30,12 +30,12 @@ UNITY엔진을 사용하여 "ESCAPE FOREST" 게임을 제작하였습니다.
  삐약이가 무사히 집으로 돌아갈 수 있도록 미로를 탈출시키는 게임입니다.
  또한 'easy', 'normal', 'hard' 세 가지 난이도로 나뉘어져 원하시는 모드로
       플레이 할 수 있습니다.</ul><br>
-  <li>시연영상
-    <ul>
-    </ul>
+  <li>시연영상</li><br>
+  [![Watch the video](https://img.youtube.com/vi/IKkjOKICiMw/0.jpg)](https://youtu.be/IKkjOKICiMw)
+
   <li>소감
     <ul>UNITY를 사용하여 게임을 만들면서 다시 UNITY에 대하여 복습할 수 있어 좋았고,
  나름 만족스러운 작품을 제작한 것 같습니다. 다만 아쉬운 점이 있다면 추가로 타이머, 사운드 등
       추가적인 요소들을 시간 상 추가하지 못하여 아쉬움이 남습니다.</ul>
 </ol>
-     [![video](http://img.youtube.com/vi/IKkjOKICiMw/0.jpg)]
+     
