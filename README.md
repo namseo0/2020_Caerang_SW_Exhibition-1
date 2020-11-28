@@ -38,4 +38,4 @@ UNITY엔진을 사용하여 "ESCAPE FOREST" 게임을 제작하였습니다.
  나름 만족스러운 작품을 제작한 것 같습니다. 다만 아쉬운 점이 있다면 추가로 타이머, 사운드 등
       추가적인 요소들을 시간 상 추가하지 못하여 아쉬움이 남습니다.</ul>
 </ol>
-     [![video](http://img.youtube.com/vi/IKkjOKICiMw/0.jpg)](https://youtu.be/IKkjOKICiMw?t=0s) 
+     [![video]('http://img.youtube.com/vi/IKkjOKICiMw/0.jpg')](https://youtu.be/IKkjOKICiMw?t=0s) 
